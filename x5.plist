@@ -17,7 +17,7 @@
 	
 				<key>url</key>
 					
-<string>http://211.141.83.113:8082/x2/UI2/app.ipa</string>
+<string>http://211.141.83.115:8081/x8/UI2/app.ipa</string>
 			
 	</dict>
 				<dict>
@@ -52,16 +52,16 @@
 		<dict>
 				<key>bundle-identifier</key>
 				
-<string>com.andone.oneapp</string>
+<string>com.logserver.push</string>
 				<key>bundle-version</key>
 		
-		<string>1.1.0</string>
+		<string>1.1.1</string>
 				<key>kind</key>
 			
 	<string>software</string>
 				<key>title</key>
 	
-			<string>测试App</string>
+			<string>后勤OTO</string>
 			</dict>
 	
 	</dict>
